@@ -11,7 +11,5 @@
 		<?php wp_body_open(); ?>
 
 		<header class="header">
-			<h1><a href="<?php echo esc_url( home_url( '/' ) ); ?>"><?php bloginfo( 'name' ); ?></a></h1>
+			<h1><a href="<?php echo esc_url( home_url( '/' ) ); ?>">pia<br>klüver</a></h1>
 		</header>
-
-		<main id="primary" class="site-main" role="main">

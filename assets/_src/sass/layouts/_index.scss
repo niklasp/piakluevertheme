@@ -1,3 +1,6 @@
 @forward 'header';
 @forward 'footer';
-@forward 'sidebar';
+
+.home header {
+	position: absolute;
+}
